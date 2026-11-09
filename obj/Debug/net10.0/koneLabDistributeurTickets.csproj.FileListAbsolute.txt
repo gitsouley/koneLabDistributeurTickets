@@ -1,0 +1,14 @@
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/bin/Debug/net10.0/koneLabDistributeurTickets
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/bin/Debug/net10.0/koneLabDistributeurTickets.deps.json
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/bin/Debug/net10.0/koneLabDistributeurTickets.runtimeconfig.json
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/bin/Debug/net10.0/koneLabDistributeurTickets.dll
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/bin/Debug/net10.0/koneLabDistributeurTickets.pdb
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.AssemblyInfoInputs.cache
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.AssemblyInfo.cs
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.csproj.CoreCompileInputs.cache
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.dll
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/refint/koneLabDistributeurTickets.dll
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.pdb
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/koneLabDistributeurTickets.genruntimeconfig.cache
+/home/yeluos/Documents/DIC _1/S_1/C#_&_technologies_.NET/pratique/koneLabDistributeurTickets/obj/Debug/net10.0/ref/koneLabDistributeurTickets.dll
